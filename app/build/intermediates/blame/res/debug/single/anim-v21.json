@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

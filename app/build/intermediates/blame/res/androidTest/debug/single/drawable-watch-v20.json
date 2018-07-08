@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    }
+]

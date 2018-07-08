@@ -1,0 +1,690 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timepass.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_timepass.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.4.aar\\c761058ae1cf6db1f1c64b4b6723cccd\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_density.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_density.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bcea24dab29bfb8eb71efe363cf497c8\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geofence_editor.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_geofence_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adhar_activity_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\adhar_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mims_activity_main.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\mims_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_layout.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\form_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_developer.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geotag_list_layout.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\geotag_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geotag_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\geotag_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bcea24dab29bfb8eb71efe363cf497c8\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.4.aar\\c761058ae1cf6db1f1c64b4b6723cccd\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bus_main.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_bus_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.4.aar\\c761058ae1cf6db1f1c64b4b6723cccd\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\31a5e114dd0d762afdfafbe409fbdb08\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_fencing_data.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_get_fencing_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_geofence_editor.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\content_geofence_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_geofence_editor.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\content_geofence_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.4.aar\\4867f6f8365e85bf5c6085084ed77bdd\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_activity.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\chat_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_density.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_density.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timepass.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_timepass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geotag_main.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\geotag_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_layout.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\form_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seat.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mims_activity_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\mims_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_developer.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bcea24dab29bfb8eb71efe363cf497c8\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geofence_editor.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_geofence_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_pre_inspection.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\form_pre_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bus_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_bus_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seat.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geotag_list_layout.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\geotag_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\416e3f3326c942c05701e0b9c15466df\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adhar_activity_main.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\adhar_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_pre_inspection.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\form_pre_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\31a5e114dd0d762afdfafbe409fbdb08\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\31a5e114dd0d762afdfafbe409fbdb08\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_fencing_data.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_get_fencing_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.4.aar\\4867f6f8365e85bf5c6085084ed77bdd\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\fc5c012545f48bde37f7b93160025689\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5d6bbd2c920275ee5d383a9dab36bb5d\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\31a5e114dd0d762afdfafbe409fbdb08\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bcea24dab29bfb8eb71efe363cf497c8\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d7ddc2e5ddc17825eb3359503a8f2e53\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.4.aar\\4867f6f8365e85bf5c6085084ed77bdd\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\Bus\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\911dfe7e5e0fa0ce849fbf3fdf376086\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\31a5e114dd0d762afdfafbe409fbdb08\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ad2d11da8d3f8cc6af052e158a498902\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_activity.xml",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\src\\main\\res\\layout\\chat_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\Bus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\chand\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bcea24dab29bfb8eb71efe363cf497c8\\res\\layout\\notification_action.xml"
+    }
+]
